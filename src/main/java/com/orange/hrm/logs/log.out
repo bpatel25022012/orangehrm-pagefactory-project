@@ -1,0 +1,6 @@
+2020-04-19 12:04:840 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-19 12:04:448 INFO  HomePage :27 - clicking on successstoried link  : [[ChromeDriver: chrome on WINDOWS (c7eaa4db4c6db8c2d6a464912d975497)] -> xpath: //a[contains(text(),'Success Stories')]]
+2020-04-19 12:04:34 INFO  SuccessStoriesPage :26 - Getting text from [[ChromeDriver: chrome on WINDOWS (c7eaa4db4c6db8c2d6a464912d975497)] -> xpath: //h1[contains(text(),'Success Stories')]]
+2020-04-19 12:04:995 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-19 12:04:42 INFO  HomePage :27 - clicking on successstoried link  : [[ChromeDriver: chrome on WINDOWS (16ffc2910eab7e6e24b049279cc488fa)] -> xpath: //a[contains(text(),'Success Stories')]]
+2020-04-19 12:04:892 INFO  SuccessStoriesPage :26 - Getting text from [[ChromeDriver: chrome on WINDOWS (16ffc2910eab7e6e24b049279cc488fa)] -> xpath: //h1[contains(text(),'Success Stories')]]

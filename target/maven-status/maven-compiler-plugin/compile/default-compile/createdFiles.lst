@@ -1,0 +1,6 @@
+com\orange\hrm\loadproperty\LoadProperty.class
+com\orange\hrm\pages\SuccessStoriesPage.class
+com\orange\hrm\utility\Utility.class
+com\orange\hrm\basepage\BasePage.class
+com\orange\hrm\browserselector\BrowserSelector.class
+com\orange\hrm\pages\HomePage.class
